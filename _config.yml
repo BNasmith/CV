@@ -1,13 +1,13 @@
-title: Benjamin Nasmith # Add a space after the period
+title: Benjamin Nasmith 
 
-logo: Logo.jpg # Use a relative path to logo image 
+logo: Photo.jpg 
 
 description: Student of mathematics, physics, and theology with versatile teaching experience. Aviation professional with experience with training design and quality assurance.  
 
-show_downloads: false # Fix spelling
+show_downloads: false 
 
 theme: jekyll-theme-minimal 
 
 google_analytics:
 
-email: bnasmith@proton.me # Allow visitors to contact you
+email: bnasmith@proton.me 
