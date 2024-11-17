@@ -2,12 +2,19 @@ title: Benjamin Nasmith
 
 # logo: Photo.jpg 
 
-description: Student of mathematics, physics, and theology with versatile teaching experience. Aviation professional with experience with training design and quality assurance.  
+# description: Aviation professional with experience in training design and quality assurance. Student of mathematics, physics, and theology with versatile teaching experience.   
+
+description: Moose Jaw, SK
 
 show_downloads: false 
 
 theme: jekyll-theme-minimal 
 
 google_analytics:
+
+# Setup for KaTeX math rendering
+markdown: kramdown
+kramdown:
+    math_engine: katex
 
 email: bnasmith@proton.me 
