@@ -54,6 +54,10 @@ Stonewall, MB <br>
 * "[Classical Electrodynamics and Absolute Simultaneity](http://arxiv.org/abs/1306.4897)." ArXiv e-print 1306.4897.
 * with N. Gauthier. “[Electric Fields in Steady-State Superconductivity according to London Theory](https://doi.org/10.1119/1.2929671).” *American Journal of Physics* 76 (9): 872-877.
 
+## Software
+
+* [ALCO](https://bnasmith.github.io/alco/), a [GAP package](https://www.gap-system.org/packages/) providing tools for algebraic combinatorics, including implementations of octonion and Jordan algebras. 
+
 ## Books
 * Moser, Paul K., and Benjamin Nasmith, eds. *Atonement and Experience: Writings of James Denney*. Pickwick, 2022.
 * Moser, Paul K., and Benjamin Nasmith, eds. *God of Holy Love: Essays of Peter Taylor Forsyth*. Pickwick, 2019.
