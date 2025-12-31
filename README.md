@@ -34,10 +34,10 @@ Stonewall, MB <br>
 * Aug 2025 -- Present: Staff Officer NATO Flight Training in Canada, 2 Canadian Air Division Headquarters, Winnipeg, MB.
 * Apr 2023 -- Jul 2025: Chief Standards Officer, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
 * Apr 2022 -- Mar 2023: Deputy Chief Standards Officer, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
-* Aug 2020 -- Mar 2022: Qualified Flying Instructor on the CT-156 Harvard II, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
+* Aug 2020 -- Mar 2022: Qualified Flying Instructor on the CT156 Harvard II, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
 * Aug 2017 -- Aug 2020: Assistant Professor in the Department of Physics and Space Science, Royal Military College of Canada, Kingston, ON.
 * Aug 2016 -- Jul 2017: Lecturer in the Department of Physics and Space Science, Royal Military College of Canada, Kingston, ON.
-* Aug 2012 -- Aug 2016: Qualified Flying Instructor on the CT-156 Harvard II, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
+* Aug 2012 -- Aug 2016: Qualified Flying Instructor on the CT156 Harvard II, 2 Canadian Forces Flying Training School, Moose Jaw, SK.
 * Sep 2008 -- July 2012: Canadian Forces pilot training, including the Fighter Pilot Lead-In Training, Fighter Pilot Course, and Harvard II Flight Instructor Course.
 
 ## Awards
@@ -56,12 +56,12 @@ Stonewall, MB <br>
 
 ## Software
 
-* [ALCO](https://bnasmith.github.io/alco/), a [GAP package](https://www.gap-system.org/packages/) providing tools for algebraic combinatorics, including implementations of octonion and Jordan algebras. 
+* [ALCO](https://bnasmith.github.io/alco/) (2025), a [GAP package](https://www.gap-system.org/packages/) providing tools for algebraic combinatorics, including implementations of octonion and Jordan algebras. 
 
 ## Books
-* Moser, Paul K., and Benjamin Nasmith, eds. *Atonement and Experience: Writings of James Denney*. Pickwick, 2022.
-* Moser, Paul K., and Benjamin Nasmith, eds. *God of Holy Love: Essays of Peter Taylor Forsyth*. Pickwick, 2019.
-* Moser, Paul K., and Benjamin Nasmith, eds. *God in Experience: Essays of Hugh Ross Mackintosh*. Pickwick, 2018.
+* Moser, Paul K., and Benjamin Nasmith, eds. [*Atonement and Experience: Writings of James Denney*](https://wipfandstock.com/9781666731354/atonement-and-experience/). Pickwick, 2022.
+* Moser, Paul K., and Benjamin Nasmith, eds. [*God of Holy Love: Essays of Peter Taylor Forsyth*](https://wipfandstock.com/9781532656323/god-of-holy-love/). Pickwick, 2019.
+* Moser, Paul K., and Benjamin Nasmith, eds. [*God in Experience: Essays of Hugh Ross Mackintosh*](https://wipfandstock.com/9781532641466/god-in-experience/). Pickwick, 2018.
 
 ## Teaching
 The following courses were taught at the Royal Military College in Kingston, ON.
@@ -79,4 +79,4 @@ The following courses were taught at the Royal Military College in Kingston, ON.
 
 * RCAF Pilot
 * Instrument Check Pilot (RCAF)
-* A Category Qualified Flying Instructor (CT156)
+* "A" Category Qualified Flying Instructor (CT156)
