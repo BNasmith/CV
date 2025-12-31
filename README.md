@@ -3,7 +3,7 @@
 # Curriculum Vitae
 
 Benjamin B. Nasmith <br> 
-Moose Jaw, SK <br> 
+Stonewall, MB <br> 
 <a href="mailto:bnasmith@proton.me">bnasmith@proton.me</a>
 
 
