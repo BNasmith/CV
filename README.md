@@ -31,8 +31,8 @@ Moose Jaw, SK <br>
 
 ## Employment
 
-
-* Apr 2023 -- Present: Chief Standards Officer, 2 Canadian Forces Flight Training School, Moose Jaw, SK.
+* Aug 2025 -- Present: Staff Officer NATO Flight Training in Canada, 2 Canadian Air Division Headquarters, Winnipeg, MB.
+* Apr 2023 -- Jul 2025: Chief Standards Officer, 2 Canadian Forces Flight Training School, Moose Jaw, SK.
 * Apr 2022 -- Mar 2023: Deputy Chief Standards Officer, 2 Canadian Forces Flight Training School, Moose Jaw, SK.
 * Aug 2020 -- Mar 2022: Qualified Flying Instructor on the CT-156 Harvard II, 2 Canadian Forces Flight Training School, Moose Jaw, SK.
 * Aug 2017 -- Aug 2020: Assistant Professor in the Department of Physics and Space Science, Royal Military College of Canada, Kingston, ON.
@@ -63,16 +63,16 @@ Moose Jaw, SK <br>
 The following courses were taught at the Royal Military College in Kingston, ON.
 * First Year Physics Laboratory (2016-2020): a practical introduction to laboratory work.
 * Physics of the Space Environment (2016-2017): a senior undergraduate lecture course in space science.
-* Classical Mechanics, (2017-2020), a senior undergraduate lecture course in physics.
+* Classical Mechanics, (2017-2020): a senior undergraduate lecture course in physics.
 * Battlefield Surveillance and Target Acquisition (Optics) (2017-2019): a professional development course supporting programs in the Applied Military Science department.
 * Review of College Algebra (2018-2019): a preparatory course within the Aboriginal Leadership Opportunity Year program at RMC.
 * Modern Physics (2018): a second year undergraduate lecture course.
-* Quantum Mechanics (2019), a senior undergraduate lecture course in physics.
-* Advanced Quantum Mechanics (2020), a senior undergraduate lecture course in physics.
+* Quantum Mechanics (2019): a senior undergraduate lecture course in physics.
+* Advanced Quantum Mechanics (2020): a senior undergraduate lecture course in physics.
 
 
 ## Professional Certifications
 
 * RCAF Pilot
 * Instrument Check Pilot (RCAF)
-* A Category Qualified Flying Instructor (CT-156)
+* A Category Qualified Flying Instructor (CT156)
