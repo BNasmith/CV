@@ -15,7 +15,7 @@ Stonewall, MB <br>
 	
 	* Supervisors: Charles Paquette and Claude Tardif
 
-* MA, Theological Studies. Briercrest Seminary. 2010-2017.
+* MA, Theological Studies. Briercrest Seminary. 2010-2017
 
 	* Thesis: <a href="https://archive.org/details/cognitive_idolatry_and_the_trinity/mode/2up" target="_blank">Cognitive Idolatry and the Trinity in Paul K. Moser's Philosophy</a>
 	
