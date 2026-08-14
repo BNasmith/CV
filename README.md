@@ -48,11 +48,13 @@ Stonewall, MB <br>
 
 ## Research Writing
 
-* "[Rational Angle Sets and Tight t-Designs](https://arxiv.org/abs/2302.01484v1)." ArXiv e-print :2302.01484v1
+* "[Rational Angle Sets and Tight t-Designs](https://arxiv.org/abs/2302.01484v1)." ArXiv e-print 2302.01484v1. February 3, 2023.
 * "[Octonions and the two strictly projective tight 5-designs](https://alco.centre-mersenne.org/articles/10.5802/alco.215/)." _Algebraic Combinatorics_ 5, no. 3 (2022): 401-411.
+* "[Octonion Integers and Tight 5-Designs](https://arxiv.org/abs/2209.02398)." ArXiv e-print 2209.02398. September 2, 2022.
+* "[An Exceptional Combinatorial Sequence and Standard Model Particles](https://arxiv.org/abs/2012.03933)." ArXiv e-print 2012.03933. December 5, 2020.
 * with Paul K. Moser. "[Towards a Christian Philosophy of the Cross](https://doi.org/10.1177/0014524618782849)." *The Expository Times* 130, no. 1 (2018): 1-12.
-* "[Classical Electrodynamics and Absolute Simultaneity](http://arxiv.org/abs/1306.4897)." ArXiv e-print 1306.4897.
-* with N. Gauthier. “[Electric Fields in Steady-State Superconductivity according to London Theory](https://doi.org/10.1119/1.2929671).” *American Journal of Physics* 76 (9): 872-877.
+* "[Classical Electrodynamics and Absolute Simultaneity](http://arxiv.org/abs/1306.4897)." ArXiv e-print 1306.4897. June 7, 2013.
+* with N. Gauthier. "[Electric Fields in Steady-State Superconductivity according to London Theory](https://doi.org/10.1119/1.2929671)." *American Journal of Physics* 76 (9): 872-877.
 
 ## Software
 
